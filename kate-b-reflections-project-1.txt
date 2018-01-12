@@ -10,7 +10,7 @@ You've learned a lot about web development so far. I want you to take a moment t
   
 * It's been easy to understand what it is that the assignment is asking us to do.
 
-* It's been difficult to understand how to use Github, but I want to become comfortable with it.  For this reason, I'm adding my project here.  This should be the link:  https://github.com/Bodleen/Google-Scholarship/blob/master/mockup-to-article.html
+* It's been difficult to understand how to use Github, but I want to become comfortable with it.  For this reason, I'm adding my project here.  This should be the link:  https://github.com/Bodleen/Google-Scholarship/blob/master//project-1-mockup-to-article.html
 
 * The primary problem solving strategy that I learned from the first project is paying extra attention to detail, asking myself exactly what this project is asking me to do, and reminding myself not to go beyond the scope of the instructions.  For instance, I want to add CSS style rules into the head (and I have in comments) but I must remember that the focus on this project is HTML and not CSS.  Read the instructions carefully.  Understand what it is that needs to be done to complete it successfully. Pay attention to details. Don't worry about doing things that aren't part of the lesson.
 
