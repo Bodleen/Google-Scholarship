@@ -6,20 +6,12 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-	* I have learned workflow shortcuts for saving and refreshing between Sublime and Chrome, which I have been relunctant to get used 
-	to using previously. Sometimes, habits that have been ingrained for years are hard to overcome.  I also don't use HTML tags very 
-	often unless I'm doing a project and so, I tend to forget each time I go back to a web development project.
+* I have learned workflow shortcuts for saving and refreshing between Sublime and Chrome, which I have been relunctant to get used to using previously. Sometimes, habits that have been ingrained for years are hard to overcome.  I also don't use HTML tags very often unless I'm doing a project and so, I tend to forget each time I go back to a web development project.
+  
+* It's been easy to understand what it is that the assignment is asking us to do.
 
-	* It's been easy to understand what it is that the assignment is asking us to do.
+* It's been difficult to understand how to use Github, but I want to become comfortable with it.  For this reason, I'm adding my project here.  This should be the link:  https://github.com/Bodleen/Google-Scholarship/blob/master/mockup-to-article.html
 
-	* It's been difficult to remind myself to go back in and add sections like divs when I'm not using CSS because I tend to think of them as only handles for styling instead of framework for the page.
+* The primary problem solving strategy that I learned from the first project is paying extra attention to detail, asking myself exactly what this project is asking me to do, and reminding myself not to go beyond the scope of the instructions.  For instance, I want to add CSS style rules into the head (and I have in comments) but I must remember that the focus on this project is HTML and not CSS.  Read the instructions carefully.  Understand what it is that needs to be done to complete it successfully. Pay attention to details. Don't worry about doing things that aren't part of the lesson.
 
-	* The primary problem solving strategy that I learned from the first project is paying extra attention to detail, asking myself
-	exactly what this project is asking me to do, and reminding myself not to go beyond the scope of the instructions.  For instance,
-	I want to add CSS style rules into the head (and I have in comments) but I must remember that the focus on this project is HTML
-	and not CSS.  Read the instructions carefully.  Understand what it is that needs to be done to complete it successfully. Pay 
-	attention to details. Don't worry about doing things that aren't part of the lesson.
-
-	* I want to build up some code on Github and become comfortable using it... so adding my project there.  This should be the link:
-	https://github.com/Bodleen/Google-Scholarship/blob/master/mockup-to-article.html
-	
+Thank you!
