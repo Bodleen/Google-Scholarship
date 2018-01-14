@@ -5,4 +5,4 @@ The Google Challenge Scholarship runs from January 10, 2018 through April 11, 20
 
 # Table of Contents
 1. project-1-mockup-to-article.html
-2. project-1-reflections.txt
+2. helloWorld.html (an experiment in JavaScript and CodePen)
