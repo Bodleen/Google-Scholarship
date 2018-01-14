@@ -1,0 +1,65 @@
+H1{
+	text-align: center;
+    color: #4B0082;
+	font-size: 75px;
+	font-family: 'Berkshire Swash', cursive;
+	letter-spacing: -2px;
+	line-height: .25em;
+}
+
+h2{
+	text-align: center;
+    color: #4B0082;
+    font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+h3, p {
+ 	text-align: left;
+    color: #2f4f4f;
+    font-size: 18 px;
+    margin: 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+.header {
+	margin-top: 20px;
+	border-bottom-color: #919191;
+	border-bottom-width: .25em;
+	border-bottom-style: double;
+	border-top-color: #919191;
+	border-top-width: .25em;
+	border-top-style: double;
+	box-shadow: 5px 5px 5px lightgrey;
+	background-color: #f4e1e1;
+
+}
+
+.container {
+	margin: 20px 75px 75px 100px;
+	padding: 70px, 50px, 50px, 50px;
+	background-color: #efeeee;
+	border-top-color: #919191;
+	border-top-width: .25em;
+	border-top-style: double;
+	border-bottom-color: #919191;
+	border-bottom-width: .25em;
+	border-bottom-style: double;
+	box-shadow: 5px 5px 5px lightgrey;
+	max-width: 1500px;
+}
+
+img {
+	width:500px;
+	height:800px;
+	float:right;
+	margin: 20px 50px 50px 75px;
+	box-shadow: 5px 5px 5px grey;
+}
+
+img:hover  {
+	opacity: .70;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+}
+
